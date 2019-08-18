@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf526fb-4df2-4d22-8b91-619aa4376098" name="Default Changelist" comment="blog models registered on admin site">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog_category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../School Subjects/Database/Project/Excel data/cabinet.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../School Subjects/Database/Project/Excel data/house of reps data.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../School Subjects/Database/Project/Excel data/justices.csv" beforeDir="false" />
@@ -46,37 +43,69 @@
         <counts>
           <entry key="html" value="333" />
           <entry key="py" value="3080" />
-          <entry key="txt" value="139" />
+          <entry key="txt" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="333" />
-          <entry key="PLAIN_TEXT" value="139" />
+          <entry key="PLAIN_TEXT" value="169" />
           <entry key="Python" value="3080" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="13" />
-          <entry key="py" value="29" />
+          <entry key="html" value="15" />
+          <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="13" />
-          <entry key="Python" value="29" />
+          <entry key="HTML" value="15" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio/templates/base.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/templates/blog_category.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state relative-caret-position="285">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#268#274#0" expanded="true" />
+                <element signature="e#290#296#0" expanded="true" />
+                <element signature="e#432#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1566159353920" expanded="true" signature="161:164" ph="..." />
+                <marker date="1566159353920" expanded="true" signature="374:377" ph="..." />
+                <marker date="1566159353920" expanded="true" signature="620:623" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#1#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,8 +141,9 @@
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/portfolio/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog_index.html" />
-        <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/portfolio/templates/base.html" />
+        <option value="$PROJECT_DIR$/blog/templates/blog_category.html" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
       </list>
     </option>
   </component>
@@ -208,7 +238,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566161755438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566163294560" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -252,7 +282,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565992918658</updated>
-      <workItem from="1565992923753" duration="12149000" />
+      <workItem from="1565992923753" duration="13192000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap libraries">
       <created>1565995868201</created>
@@ -282,11 +312,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566159375660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="blog index page up and running">
+      <created>1566161806591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566161806591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12149000" />
+    <option name="totallyTimeSpent" value="13192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -297,7 +334,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10096931" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35379645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.4561644" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -334,7 +371,8 @@
     <MESSAGE value="finished portfolio, started blog app" />
     <MESSAGE value="blog models registered on admin site" />
     <MESSAGE value="added comment form" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comment form" />
+    <MESSAGE value="blog index page up and running" />
+    <option name="LAST_COMMIT_MESSAGE" value="blog index page up and running" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello_world/views.py">
@@ -444,31 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1566159353920" expanded="true" signature="161:164" ph="..." />
-            <marker date="1566159353920" expanded="true" signature="374:377" ph="..." />
-            <marker date="1566159353920" expanded="true" signature="620:623" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
-          <folding>
-            <element signature="e#256#262#0" expanded="true" />
-            <element signature="e#278#284#0" expanded="true" />
-            <element signature="e#420#426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -490,6 +503,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
+          <folding>
+            <element signature="e#256#262#0" expanded="true" />
+            <element signature="e#278#284#0" expanded="true" />
+            <element signature="e#420#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -500,10 +532,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog_category.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#268#274#0" expanded="true" />
+            <element signature="e#290#296#0" expanded="true" />
+            <element signature="e#432#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1566159353920" expanded="true" signature="161:164" ph="..." />
+            <marker date="1566159353920" expanded="true" signature="374:377" ph="..." />
+            <marker date="1566159353920" expanded="true" signature="620:623" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
