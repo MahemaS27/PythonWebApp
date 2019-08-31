@@ -44,5 +44,5 @@ def blog_detail(request,pk):
     "comments":comments,
     "form":form # addded the form to add more comments to the render
   }
-  return render (request, "blog_detial.html", context)
+  return render (request, "blog_detail.html", context)
 
